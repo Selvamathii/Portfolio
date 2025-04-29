@@ -2,6 +2,14 @@
 
 Welcome to my personal portfolio! This project was created as part of the **Webzenith Solutions 100 Days Bootcamp** to showcase my skills, projects, and development journey.
 
+In this repository, you’ll find:
+
+Personal Projects: A collection of projects I've worked on, ranging from Frontend to Database
+
+Code Samples: A variety of code snippets that highlight my problem-solving abilities and coding practices.
+
+Collaborations: Some of the exciting collaborative projects I've had the opportunity to contribute to.
+
 ## 🚀 Features
 - Fully responsive layout
 - Clean and modern UI design
@@ -14,13 +22,6 @@ Welcome to my personal portfolio! This project was created as part of the **Webz
 - **HTML5** – for semantic page structure  
 - **CSS3** – for styling and responsive design  
 - **JavaScript** – for interactivity and DOM manipulation
-
-  ## 🖼️ Preview
-
-![Portfolio Preview 1]("E:\Wallpaper\s1.png")  
-![Portfolio Preview 2]("E:\Wallpaper\s2.png")  
- 
-*Clean and responsive layout built from scratch — desktop and mobile optimized.*
 
 ## 🌍 Live Demo
 
